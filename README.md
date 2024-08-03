@@ -1,6 +1,6 @@
-## Hi there 👋, I am Shubham Pandey
+                                                                                 ## Hi there 👋, I am Shubham Pandey
 
-**Passionate Aspiring Data Analyst.**
+                                                                                **Passionate Aspiring Data Analyst.**
 
 - 👀 I’m interested in Transforming Bad Data into Meaningful insights.
 - 🌱 I’m currently learning **SQL, Excel, Power BI, Python**
